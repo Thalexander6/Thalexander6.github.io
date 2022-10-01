@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Oct 2022 18:55:05 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sat, 01 Oct 2022 18:55:05 +0200</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Hello World! You have found yourself inside the online nexus of Thomas James Alexander&amp;rsquo;s digital memory banks.
+Thomas was educated by North Carolina State University (BAE Dept rankings) as a Biological Engineer with a concentration in Bioprocessing.
+A Biological Engineer&amp;rsquo;s training is a rigorous as any other engineer but with the exception that we are trained to design devices that cater to the needs and exploit the benefits of living systems.</description>
+    </item>
+    
+  </channel>
+</rss>
